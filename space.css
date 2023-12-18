@@ -1,0 +1,31 @@
+:root {
+    --light-purple: rgba(229, 212, 249, 1);
+    --purple: rgba(121, 83, 187, 1);
+    --dark-purple: rgba(19, 7, 68, 1);
+    --grey: rgba(114, 129, 150, 1);
+    --ungu: rgba(190, 111, 251, 1);
+    --biru: rgba(101, 170, 230, 1);
+    --kuning-ges: rgba(252, 178, 1, 1);
+    --kuning-muda: rgba(250, 221, 126, 1);
+    --puteh: rgba(255, 255, 255, 1);
+    --biru-ceunah: rgba(102, 78, 255, 1);
+    --h-1-font-family: "Quicksand-Bold", Helvetica;
+    --h-1-font-weight: 700;
+    --h-1-font-size: 56px;
+    --h-1-letter-spacing: -0.56px;
+    --h-1-line-height: 120px;
+    --h-1-font-style: normal;
+    --h-2-font-family: "Quicksand-Bold", Helvetica;
+    --h-2-font-weight: 700;
+    --h-2-font-size: 48px;
+    --h-2-letter-spacing: -0.48px;
+    --h-2-line-height: 110px;
+    --h-2-font-style: normal;
+    --body-font-family: "Nunito-SemiBold", Helvetica;
+    --body-font-weight: 600;
+    --body-font-size: 20px;
+    --body-letter-spacing: -0.2px;
+    --body-line-height: 150px;
+    --body-font-style: normal;
+  }
+  
